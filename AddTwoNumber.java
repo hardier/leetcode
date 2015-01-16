@@ -84,7 +84,6 @@ public class AddTwoNumber {
 			System.out.println(l3.val);
 			l3 = l3.next;
 		}
-		
 
 	}
 
